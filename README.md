@@ -1,4 +1,4 @@
-![stripes](./images/SubtleStripes.svg)
+![stripes](../../images/SubtleStripes.svg)
 ### Hi there 👋
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/kenmaready?label=follow&style=social)
