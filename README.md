@@ -1,5 +1,6 @@
-![stripes](../../images/SubtleStripes.svg)
-### Hi there 👋
+### Hi, I'm Ken 👋
+
+My day job is as a lawyer working with technology companies (primarily startups) and investors who fund technology companies (VCs and angels).  I've been teaching myself to program for about five years.  I've worked mostly in python, javascript/nodejs, Java and SQL, but have taken courses in functional languages like Haskell, Racket and MS, as well as the logical programming language Prolog.  I've been studying machine learning, particularly deep learning and AI.
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/kenmaready?label=follow&style=social)
 
