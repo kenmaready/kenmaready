@@ -1,4 +1,4 @@
-## Ken Maready
+![header](https://capsule-render.vercel.app/api?type=wave&color=3865F5&height=300&section=header&text=Ken%20Maready&fontSize=64&fontColor=ffffff)
 
 ### Corporate/Technology Attorney & Software Developer
 
