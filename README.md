@@ -16,8 +16,6 @@ By day, I'm a lawyer working with technology companies (primarily startups) and 
 A web-based capitalization table and liquidation waterfall application.  The goal is to allow a company to track holders of stock, options, warrants, convertible notes, SAFEs, etc., generate cap tables, run liquidation waterfall scenarios and export all of it to excel.
 
 
-![Twitter Follow](https://img.shields.io/twitter/follow/kenmaready?label=follow&style=social)
-
 <!--
 **kenmaready/kenmaready** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
