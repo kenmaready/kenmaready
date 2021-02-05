@@ -1,6 +1,6 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=wave&color=3865F5&height=300&section=header&text=Ken%20Maready&fontSize=64&fontColor=ffffff) -->
 # Ken Maready
----
+
 ### Corporate/Technology Attorney & Software Developer
 
 By day, I'm a lawyer working with technology companies (primarily startups) and investors who fund technology companies (VCs and angels).  I've been teaching myself to program on the side for about five years.  I've worked mostly in the SciPy stack (plus pytorch or tensorflow) for data/deep learning and the MERN stack for building applications but I've also done extensive coursework in Java and have spent time learning functional languages like Haskell, Racket and MS, as well as the logical programming language Prolog.  I've been studying machine learning, particularly deep learning and AI and am very interested in applying these technologies to financial markets.
