@@ -18,7 +18,7 @@ By day, I'm a lawyer working with technology companies (primarily startups), VCs
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kenmaready&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 #### What I'm currently working on:
-A web-based cap table and liquidation waterfall application.  The goal is to allow a company to track holders of stock, options, warrants, convertible notes, SAFEs, etc., generate cap tables, run liquidation waterfall scenarios and export all of it to excel.
+[Equitable](https://equitable.herokuapp.com/), a web-based cap table and liquidation waterfall application.  The goal is to allow a company to track holders of stock, options, warrants, convertible notes, SAFEs, etc., generate cap tables, run liquidation waterfall scenarios and export all of it to excel.  It's still in very early stages at this point, so don't expect too much in the way of functionality and please forgive the rough edges and UI.
 
 
 <!--
