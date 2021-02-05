@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-https://img.shields.io/twitter/follow/kenmaready?label=follow&style=social
+![Twitter Follow](https://img.shields.io/twitter/follow/kenmaready?label=follow&style=social)
 
 <!--
 **kenmaready/kenmaready** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
