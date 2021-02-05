@@ -14,6 +14,8 @@ By day, I'm a lawyer working with technology companies (primarily startups) and 
 ![pytorch](https://img.shields.io/static/v1?label=%20&message=pytorch&labelColor=white&color=orange&logo=pytorch) 
 ![pandas](https://img.shields.io/static/v1?label=%20&message=pandas&labelColor=blue&color=white&logo=pandas) 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kenmaready)](https://github.com/anuraghazra/github-readme-stats)
+
 #### I'm currently working on:
 A web-based capitalization table and liquidation waterfall application.  The goal is to allow a company to track holders of stock, options, warrants, convertible notes, SAFEs, etc., generate cap tables, run liquidation waterfall scenarios and export all of it to excel.
 
