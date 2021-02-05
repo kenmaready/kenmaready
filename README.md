@@ -3,7 +3,7 @@
 
 ### Corporate/Technology Attorney & Software Developer
 
-By day, I'm a lawyer working with technology companies (primarily startups) and investors who fund technology companies (VCs and angels).  I've been teaching myself to program on the side for about five years.  I've worked mostly in the SciPy stack (plus pytorch or tensorflow) for data/deep learning and the MERN stack for building applications but I've also done extensive coursework in Java and have spent time learning functional languages like Haskell, Racket and MS, as well as the logical programming language Prolog.  I've been studying machine learning, particularly deep learning and AI, and am very interested in applying these technologies to financial markets.
+By day, I'm a lawyer working with technology companies (primarily startups) and investors who fund technology companies (VCs and angels) with over 20 years experience.  By night (and weekend), I've been teaching myself to program on the side for about five years.  I've worked mostly in the SciPy stack (plus pytorch or tensorflow) for data/deep learning and the MERN stack for building applications but I've also done extensive coursework in Java and have spent time learning functional languages like Haskell, Racket and MS, as well as the logical programming language Prolog.  I've been studying machine learning, particularly deep learning and AI, and am very interested in applying these technologies to financial markets.
 
 #### Some of the languages/technologies I work with most:
 ![mongodb](https://img.shields.io/static/v1?label=%20&message=MongoDB&labelColor=white&color=brightgreen&logo=mongodb) 
