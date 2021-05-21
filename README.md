@@ -10,6 +10,7 @@ By day, I'm a lawyer working with technology companies (primarily startups), VCs
 ![express](https://img.shields.io/static/v1?label=%20&message=express&labelColor=blue&color=white&logo=express) 
 ![react](https://img.shields.io/static/v1?label=%20&message=react&labelColor=white&color=lightblue&logo=react) 
 ![nodejs](https://img.shields.io/static/v1?label=%20&message=nodejs&labelColor=white&color=brightgreen&logo=node.js) 
+![typescript](https://img.shields.io/static/v1?label=%20&message=typescript&labelColor=white&color=blue&logo=typescript)
 ![python](https://img.shields.io/static/v1?label=%20&message=python&labelColor=white&color=blue&logo=python) 
 ![scikit-learn](https://img.shields.io/static/v1?label=%20&message=scikit-learn&labelColor=white&color=orange&logo=scikit-learn) 
 ![pytorch](https://img.shields.io/static/v1?label=%20&message=pytorch&labelColor=white&color=orange&logo=pytorch) 
