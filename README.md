@@ -3,14 +3,16 @@
 
 ### Corporate/Technology Attorney & Software Developer
 
-By day, I'm a lawyer working with technology companies (primarily startups), VCs and angel investors.  By night (and weekends), I've been teaching myself to program for about five years.  I've worked mostly in the SciPy stack (plus pytorch or tensorflow) for data/deep learning and the MERN stack for building applications, but I've also done extensive coursework in Java and have spent time learning functional languages like Haskell, Racket and MS, as well as the logical programming language Prolog.  I've been studying machine learning, particularly deep learning and AI, and am very interested in applying these technologies to financial markets.
+By day, I'm a lawyer working with technology companies (primarily startups), VCs and angel investors.  By night (and weekends), I've been teaching myself to program for about five years.  I've worked mostly in the SciPy stack (plus pytorch or tensorflow) for data/deep learning and the MERN stack for building applications, but I've also done extensive coursework in C++ and Java and have spent time learning functional languages like Haskell, Racket and MS, as well as the logical programming language Prolog.  I've been studying machine learning, particularly deep learning and AI, and am very interested in applying these technologies to financial markets.
 
 #### Languages/technologies I work with most:
-![mongodb](https://img.shields.io/static/v1?label=%20&message=MongoDB&labelColor=white&color=brightgreen&logo=mongodb) 
-![express](https://img.shields.io/static/v1?label=%20&message=express&labelColor=blue&color=white&logo=express) 
-![react](https://img.shields.io/static/v1?label=%20&message=react&labelColor=white&color=lightblue&logo=react) 
+![javascript](https://img.shields.io/static/v1?label=%20&message=javascript&labelColor=blue&color=blue&logo=javascript)
 ![nodejs](https://img.shields.io/static/v1?label=%20&message=nodejs&labelColor=white&color=brightgreen&logo=node.js) 
 ![typescript](https://img.shields.io/static/v1?label=%20&message=typescript&labelColor=white&color=blue&logo=typescript)
+![mongodb](https://img.shields.io/static/v1?label=%20&message=MongoDB&labelColor=white&color=brightgreen&logo=mongodb) 
+![express](https://img.shields.io/static/v1?label=%20&message=express&labelColor=blue&color=white&logo=express) 
+![react](https://img.shields.io/static/v1?label=%20&message=react&labelColor=white&color=lightblue&logo=react)
+![c++](https://img.shields.io/static/v1?label=%20&message=C%2B%2B&labelColor=brown&color=white&logo=cplusplus)
 ![python](https://img.shields.io/static/v1?label=%20&message=python&labelColor=white&color=blue&logo=python) 
 ![scikit-learn](https://img.shields.io/static/v1?label=%20&message=scikit-learn&labelColor=white&color=orange&logo=scikit-learn) 
 ![pytorch](https://img.shields.io/static/v1?label=%20&message=pytorch&labelColor=white&color=orange&logo=pytorch) 
